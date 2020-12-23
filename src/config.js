@@ -25,7 +25,7 @@ const homeCfg = [
     {navItem:true, exact:false, path:"/about",name:"See more",view:<About/>},
     {navItem:true, exact:false, path:"/contact",name:"Go now",view:<Contact/>},
     {navItem:true, exact:false, path:"/portfolio",name:"See more",view:<Portfolio/>},
-    {navItem:true, exact:false, path:"/services",name:"Contact ",view:<Services/>}
+    {navItem:true, exact:false, path:"/services",name:"See more ",view:<Services/>}
 ];
 
 export {
