@@ -26,10 +26,8 @@ class Slider extends Component{
                                         and digital strategy. We provide one stop platform where we develop, 
                                         analyse, design, and deliver.
                                     </p>
-                                    <Link to="/about">
-                                        <Button variant="outline-light" className="rounded-pill font-weight-bold">
-                                            See more
-                                        </Button>
+                                    <Link to="/about" className="btn btn-outline-light rounded-pill font-weight-bold">
+                                        See more
                                     </Link>
                                 </Carousel.Caption>
                             </Carousel.Item>
@@ -46,10 +44,8 @@ class Slider extends Component{
                                         have become essential for any business presence. Incorporating its 
                                         branding, video production, marketing design services, digital services
                                     </p>
-                                    <Link to="/services">
-                                        <Button variant="outline-light" className="rounded-pill font-weight-bold">
-                                            See more
-                                        </Button>
+                                    <Link to="/services" className="btn btn-outline-light rounded-pill font-weight-bold">
+                                        See more
                                     </Link>
                                 </Carousel.Caption>
                             </Carousel.Item>
@@ -64,10 +60,8 @@ class Slider extends Component{
                                     <p className="initialism">
                                         Check our portfolio
                                     </p>
-                                    <Link to="/portfolio">
-                                        <Button variant="outline-light" className="rounded-pill font-weight-bold">
-                                            See more
-                                        </Button>
+                                    <Link to="/portfolio" className="btn btn-outline-light rounded-pill font-weight-bold">
+                                        See more
                                     </Link>
                                 </Carousel.Caption>
                             </Carousel.Item>
